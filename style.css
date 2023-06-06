@@ -1,0 +1,12 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+.btn{
+    background-color: aqua;
+    color: black;
+}
